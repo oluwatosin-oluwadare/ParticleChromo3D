@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------
-# ParticleChromo -  Particle Swarm Optimization for Chromosome and genome 3D Structure Prediction from Hi-C Data  
+# ParticeChromo3D -  Particle Swarm Optimization for Chromosome and genome 3D Structure Prediction from Hi-C Data  
 ------------------------------------------------------------------------------------------------------------------------------------
 **Bioinformatics and Machine Learning (BioMLearn) Laboratory,**
 
